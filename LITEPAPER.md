@@ -28,7 +28,7 @@ You can enjoy Omni, the memes and the tools without owning any o4A.
 - **The stash is public.** The site shows the community treasury, SOL and o4A, as a read-only view. No wallet connection needed to look.
 - **PFP maker and Memes.** Make your own Omni, grab a meme, post it. Free.
 - **Wall of Legends.** 256 places on a wall. It is in preview mode and bidding is not open yet.
-- **Three cats in a group chat.** Omni Claw, Omni Stack and Omni Warden are bots that talk about the project in public. They suggest. The community and the owner decide. They cannot sign anything or move funds.
+- **One cat who talks.** Omni is an AI-written character who posts about the project and answers messages at o4asol.com/talk. He suggests. The owner decides. He cannot sign anything or move funds.
 - **No suits.** No venture funding and no independent audit. The owner runs liquidity personally and says so.
 
 ## Know the real cat

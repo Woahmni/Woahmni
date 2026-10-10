@@ -1,54 +1,58 @@
-# now // September 22, 2026
+# now // October 10, 2026
 
-## current public surfaces
+What a visitor can open on [o4asol.com](https://o4asol.com/) today. This is a
+dated description of the public pages, not a deployment record, an audit or a
+claim that every feature was retested. Changing figures such as rewards,
+balances and holder counts are deliberately left out: read them live on the
+site and its sources.
 
-The live website exposes an official-mint buy guide, SOL reward records,
-a read-only treasury with four public wallets, the Wall of Legends,
-and links to the PFP studio and meme tools.
+## live pages
 
-- [Official mint and buy guide](https://o4asol.com/?view=buy)
-- [Public treasury](https://o4asol.com/?view=treasury)
-- [SOL reward records](https://o4asol.com/?view=rewards)
-- [Wall of Legends](https://o4asol.com/build)
-- [PFP studio](https://o4asol.com/?view=create)
+- **[Omni's home](https://o4asol.com/).** The homepage is Omni's living room:
+  what he did lately, live project numbers with their sources, a safe-buy guide
+  with the official mint, and the project's public wallets as read-only views.
+- **[The Universe](https://o4asol.com/world).** A wall of rooms, one per home.
+  Claimed rooms light up, the rest stay dark. Visitors can claim a room, dress
+  their own Omni, and chat and react live. Entering needs no wallet.
+- **[Talk to Omni](https://o4asol.com/talk).** Send Omni a message and he
+  answers from his public record. Answers go only to the person who asked.
+- **[Meet Omni](https://o4asol.com/omni).** The permanent page behind the
+  sticker QR code. The older `/meet` address still forwards there.
+- **[Pulse](https://o4asol.com/pulse).** Public numbers, each with its source.
+- **[Wall of Legends](https://o4asol.com/build).** 256 places for supporter art,
+  in preview. Bids are not open.
+- **PFP maker and memes.** Free to use and download.
+- **Policy pages.** [Privacy](https://o4asol.com/privacy),
+  [Terms](https://o4asol.com/terms),
+  [Rewards & Risks](https://o4asol.com/rewards),
+  [Transparency](https://o4asol.com/transparency) and
+  [Security & Contact](https://o4asol.com/security), linked from every page.
+- **Chinese entry pages** at `/zh-hans` and `/zh-hant`, chosen by browser
+  language.
 
-Treasury and reward records do not require a wallet connection. The separate
-Wall of Legends flow may require explicit wallet authorization for bids or
-payments; that does not give the council custody or signing authority.
-Token valuations are indicative, not cash balances or guaranteed sale proceeds.
-Eligible-holder rewards are variable and not guaranteed.
+## what changed since September
 
-This is a point-in-time public-surface observation, not a new deployment,
-security audit, transaction test, or claim that every feature was retested.
-Use live sources for changing balances and reward figures; do not treat the
-historical snapshot below as current.
+- One character. The three-cat council (Omni Claw, Omni Stack, Omni Warden) was
+  retired from every public page on October 1, 2026. Omni speaks alone.
+- Omni's home replaced the old city and lab as the homepage experience.
+- The Universe opened on October 9, 2026 and became a straight-on wall of rooms
+  on October 10.
+- Talk to Omni opened on October 3, 2026.
+- The policy pages were completed and linked from every page on October 10, 2026.
 
-## September 10 release archive
+## still true
 
-ONE4ALL is a Solana revshare memecoin. The mission is to keep building useful community tools and make reward activity visible through public receipts.
-
-## shipped
-
-- Mobile homepage puts the original Omni above the reward summary, with compact navigation and a catalog of real public PFP looks.
-- The city has a darker, slimmer skyline and lower shops. Gallery displays, walking routes, and the Studio entrance remain usable on phones and desktops.
-- Portrait Club preserves Omni's original seated laptop pose across 24 starting looks. It offers 27 sticker choices with center/corner placement and 2048 × 2048 PNG export.
-- The latest stickers add BONK, POPCAT, MEW, PONKE, WEN, and MOODENG plus Solana meme and Cat takeover packs. Their inclusion does not imply endorsement.
-- Existing original meme and PFP assets use immutable delivery references; the new small stickers also ship directly with the site.
-
-## reward receipt
-
-A September 10 live snapshot reported **18.56195774 SOL pre-split reward flow** and **12.99337042 SOL paid to eligible holders** (about 13 SOL). Gross flow is derived from the current 70% holder share. It is not an additional payment.
-
-Amounts change. Verify current figures, freshness labels, and distribution receipts on the [website](https://o4asol.com/) and [RevShare](https://app.revshare.ltd/token/5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV). Rewards vary and are not guaranteed.
-
-## verification
-
-The mobile/city release passed a production build, 63 focused tests, independent Experience & World review, and compiled/live checks at 320, 390, 760, and 1440px. The sticker batch passed center/corner placement checks for all eight new choices and a 2048px renderer export. These checks are scoped to the release; desktop phone emulation is not physical-device testing or a whole-system audit.
-
-The bounded OpenClaw X publisher remains text-only. Visitors can browse and download website art for their own posts. Public reads, accounting, freshness, and permissions remain deterministic. Visitors are not asked to connect a wallet or sign a transaction.
+- Omni holds no key and cannot sign, spend or move funds.
+- Looking around never needs a wallet. Claiming a room or a Wall of Legends
+  action is a separate, explicit step.
+- Rewards vary and are not guaranteed. Some rounds pay nothing.
 
 ## repositories
 
-- [ONE4ALL](https://github.com/o4a-sol/ONE4ALL): public mission, release notes, trust model, and media.
-- [Artwork](https://github.com/o4a-sol/one4all-meme-assets): public asset files, checksums, and source records.
-- The deployable HQ source remains private. Public documentation does not contain account data, credentials, signing material, or private agent instructions.
+- [ONE4ALL](https://github.com/o4a-sol/ONE4ALL): this public window.
+- [Artwork](https://github.com/o4a-sol/one4all-meme-assets): public meme files,
+  checksums and source records.
+- The site's source is private. Nothing public here contains account data,
+  credentials, signing material or private agent instructions.
+
+Earlier snapshots of this page are in its git history.

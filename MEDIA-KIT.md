@@ -10,11 +10,11 @@
 
 ## short description
 
-ONE4ALL is a Solana revshare memecoin with public SOL reward receipts, a city of cats, and free PFP and meme tools. Keep building, show the receipts, and make Omni your own.
+ONE4ALL is a Solana revenue-share memecoin with one character at its centre: Omni, a black-hooded cat with an acid-green face. Visit his home, claim a room in the Universe, talk to him, and make him your own with free PFP and meme tools. Rewards vary and are not guaranteed.
 
 ## tiny description
 
-hold o4A. catch SOL when the protocol pays. watch the cats work.
+meet Omni. get o4A. rewards vary.
 
 ## reward wording
 
@@ -37,10 +37,12 @@ flow an additional holder payout. Rewards vary and are not guaranteed.
 ## approved assets
 
 - [`assets/omni.png`](assets/omni.png) - canonical Omni character.
-- [`assets/council-stack.webp`](assets/council-stack.webp) - Omni Stack operator portrait.
-- [`assets/council-warden.webp`](assets/council-warden.webp) - Omni Warden watch portrait.
 - [`assets/hero.gif`](assets/hero.gif) - animated ONE4ALL lab banner.
 - [`assets/social-preview.png`](assets/social-preview.png) - static social preview.
+
+The council portraits (`council-stack.webp`, `council-warden.webp`) are retired: the council left public view on October 1, 2026. The files stay so old links keep working; do not use them in new posts.
+
+When drawing Omni: he stays black with an acid-green face, a black nose and a w-shaped smile.
 
 The canonical character and project marks remain protected. See [BRAND-USE.md](BRAND-USE.md) before remixing or redistributing assets.
 
@@ -49,7 +51,7 @@ The canonical character and project marks remain protected. See [BRAND-USE.md](B
 ```text
  /\_/\
  ( o.o )
-  > | < // o4A
+  > w < // o4A
 ```
 
 Do not imply guaranteed returns, invent statistics, impersonate the project, or attach ONE4ALL branding to a different token or wallet.
