@@ -7,7 +7,7 @@ This public repository is a curated window, not the production source tree.
 - **site bug:** describe the device, browser, page, expected behavior, and what broke.
 - **verified-data mismatch:** include the displayed value, authoritative public source, timestamp, and link.
 - **accessibility:** report keyboard, contrast, motion, zoom, screen-reader, or touch issues.
-- **culture:** bring memes, Omni art, and Living Wall ideas through the official Discord or X community.
+- **culture:** bring memes and Omni art through the official Discord or X community.
 
 Use the focused issue templates. Search first so the same cat does not chase the same bug twice.
 
