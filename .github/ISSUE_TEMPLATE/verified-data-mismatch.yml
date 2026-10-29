@@ -16,7 +16,7 @@ body:
   - type: input
     id: displayed
     attributes:
-      label: Value shown by ONE4ALL
+      label: Value shown by the project
     validations:
       required: true
   - type: input

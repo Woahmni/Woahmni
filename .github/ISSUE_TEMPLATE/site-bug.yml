@@ -1,5 +1,5 @@
 name: site bug
-description: Something in the public ONE4ALL experience broke.
+description: Something in the public project experience broke.
 title: "[site] "
 labels: ["site-bug"]
 body:
@@ -10,7 +10,7 @@ body:
     id: url
     attributes:
       label: Page URL
-      placeholder: https://o4asol.com/
+      placeholder: https://example.com/
     validations:
       required: true
   - type: input
