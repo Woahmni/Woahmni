@@ -1,14 +1,17 @@
-# Project paused
+# Woahmni
 
-Development and promotion are paused while the project reviews its branding.
-A replacement name has not been selected.
+The green cat in a hoodie. Original stories, community creations, and a new world in the making.
 
-Previous promotional documentation, website and social links, and artwork have
-been withdrawn from this checkout pending review. This notice does not establish
-that external websites, accounts, token metadata, or previously published copies
-have been updated.
+Woahmni is a **new launch**. Previous token contracts, reward programs, and trading links do not represent this launch. No new contract address, trading destination, or launch date is announced here.
 
-Do not publish new branded material or reuse previous promotional assets pending
-review.
+Follow the official channels for updates:
+
+- [X](https://x.com/Woahmni)
+- [Instagram](https://www.instagram.com/o4asol/)
+- [TikTok](https://www.tiktok.com/@o4asol)
+- [YouTube](https://www.youtube.com/channel/UCaOVMFseLxpuDa87dKBOVhw)
+- [Telegram community](https://t.me/o4asol)
+
+Existing account handles may remain while branding is updated. Use these verified links rather than guessing a new destination.
 
 For security issues, see [SECURITY.md](SECURITY.md).
